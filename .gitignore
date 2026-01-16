@@ -1,0 +1,17 @@
+# VB6 project ignores
+*.vbw
+*.vbp.user
+*.exe
+*.dll
+*.ocx
+*.obj
+*.pdb
+*.lib
+*.exp
+*.log
+*.tmp
+*.vsscc
+vssver.scc
+*/vssver.scc
+*.user
+*.aps
